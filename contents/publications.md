@@ -1,15 +1,1 @@
-- Li X, Tian H, Lu C, et al. Four-century history of land transformation by humans in the United States (1630–2020): annual and 1 km grid data for the HIStory of LAND changes (HISLAND-US). Earth System Science Data, 2023, 15(2): 1005-1035. (SCI, 中科院1区Top, JCR 1区, IF: 11.8)
-- Li X, Lv Y, Chi W, et al. Climate change amplifies the effects of vegetation restoration on evapotranspiration and water availability in the Beijing–Tianjin Sand Source Region, Northern China. Land, 2025, 14(3): 527. (SCI, 中科院2区, JCR2区, IF: 3.2)
-- Li X, Kuang W, Sun F. Identifying urban flood regulation priority areas in Beijing based on an ecosystem services approach. Sustainability, 2020, 12(6): 2297. (SCI, 中科院3区, JCR 2区, IF: 3.3)
-- 李孝永, 匡文慧. 北京城市土地利用/覆盖变化及其对雨洪调节服务的影响. 生态学报, 2020, 40(16): 5525-5533. (CSCD, IF: 4.0)
-- 李孝永, 匡文慧. 北京、天津和石家庄城市地表覆盖组分与结构特征对地表温度的影响. 生态学杂志, 2019, 38(10): 3057-3065. (CSCD, IF: 2.4)
-- 李孝永, 杜国明, 匡文慧. 九寨沟地震次生灾害风险及对自然保护区和自然遗产地的影响. 水土保持通报, 2019, 39(02):301-308+325. (CSCD, IF: 1.7)
-- 李孝永, 匡文慧. 京津冀1980—2015年城市土地利用变化时空轨迹及未来情景模拟. 经济地理, 2019, 39(03) : 187-194+200. (CSCD, IF: 5.9)
-- Lu N, Tian H, Fu B, …, Li X, et al. Biophysical and economic constraints on China’s natural climate solutions. Nature Climate Change, 2022, 12(9): 847-853.
-- Zhang J, Tian H, Li X, et al. A warmer and wetter world would aggravate ghg emissions intensity in China's cropland Earth’s Future, 2024, 12, e2023EF003614.
-- You Y, Tian H, Pan S, …, Li X, et al. Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?. Global Change Biology, 2023, 30(1): 1-20.
-- Kuang W, Liu J, Tian H, …, Li X, et al. Cropland redistribution to marginal lands undermines environmental sustainability. National Science Review, 2022, 9(1): nwab091.
-- Kuang W, Zhang S, Li X, et al. A 30 m resolution dataset of China’s urban impervious surface area and green space, 2000–2018. Earth System Science Data, 2021, 13(1): 63-82.
-- Kuang W, Du G, Lu D, …, Li X, et al. Global observation of urban expansion and land-cover dynamics using satellite big-data. Science Bulletin, 2021, 66(4): 297-300.
-- Lv Y, Li X, Chi W. Maximum Gross Primary Productivity Dominates the Trend in Gross Primary Productivity in China’s Deciduous Forest Ecosystems. Forests, 2023, 14, 1880.
 
