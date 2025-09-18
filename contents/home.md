@@ -10,13 +10,13 @@ I'm an assistant professor at the School of Civil Engineering and Geomatics, Sha
 
 
 #### Education  
-* Boston College, visiting scholar, (2023.06 – 2023.12)
-* Auburn University, visiting scholar, (2021.09 – 2023.12)
+* Boston College, Visiting Scholar, (2023.06 – 2023.12)
+* Auburn University, Visiting Scholar, (2021.09 – 2023.12)
 * 中国科学院大学(中国科学院生态环境研究中心), 博士, 生态学 (2019.09 – 2024.06)
 * University of Chinese Academy of Science, PhD, Ecology (2019.09 – 2024.06)
 * 中国科学院大学(中国科学院地理科学与资源研究所), 硕士, 地图学与地理信息系统 (2016.09 – 2019.06)
 * University of Chinese Academy of Science, MS, GIS (2016.09 – 2019.06)
-* 山东师范大学(地理与环境学院), 博士, GIS (2012.09 – 2016.06)
+* 山东师范大学(地理与环境学院), 本科, 地理信息系统 (2012.09 – 2016.06)
 * Shandong Normal University, BS, GIS (2012.09 – 2016.06)
 
 
