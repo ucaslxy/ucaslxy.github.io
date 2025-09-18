@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I'm currently assistant professor at the School of Civil Engineering and Geomatics, Shandong University of Technology.
 
