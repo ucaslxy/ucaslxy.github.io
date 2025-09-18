@@ -1,5 +1,5 @@
 
-I'm currently assistant professor at the School of Civil Engineering and Geomatics, Shandong University of Technology.
+I'm an assistant professor at the School of Civil Engineering and Geomatics, Shandong University of Technology.
 
 
 #### Email  
