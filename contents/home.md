@@ -1,20 +1,22 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently assistant professor at the School of Civil Engineering and Geomatics, Shandong University of Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>xiaoyong.li@sdut.edu.cn</code>  
+<code>ucaslxy2016@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+* Boston College, visiting scholar, (2023.06 – 2023.12)
+* Auburn University, visiting scholar, (2021.09 – 2023.12)
+*中国科学院大学(中国科学院生态环境研究中心), 博士, 生态学 (2019.09 – 2024.06)
+* University of Chinese Academy of Science, PhD, Ecology (2019.09 – 2024.06)
+*中国科学院大学(中国科学院地理科学与资源研究所), 博士, 地图学与地理信息系统 (2016.09 – 2019.06)
+* University of Chinese Academy of Science, PhD, GIS (2016.09 – 2019.06)
+*山东师范大学(地理与环境学院), 博士, 生态学 (2012.09 – 2016.06)
+* Shandong Normal University, BS, GIS (2012.09 – 2016.06)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+* Remote sensing
+* Ecosystsem modeling
