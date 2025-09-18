@@ -26,4 +26,4 @@ I'm an assistant professor at the School of Civil Engineering and Geomatics, Sha
 * Carbon and Water Cycle
 * Remote Sensing
 * Ecosystsem Modeling
-* Terrestrail Ecosystem Ecology
+* Terrestrial Ecosystem Ecology
