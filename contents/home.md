@@ -16,6 +16,8 @@ I'm currently assistant professor at the School of Civil Engineering and Geomati
 * Shandong Normal University, BS, GIS (2012.09 – 2016.06)
 
 
-#### Research Interests  
-* Remote sensing
-* Ecosystsem modeling
+#### Research Interests
+* Land Use and Land Cover Change
+* Remote Sensing
+* Ecosystsem Modeling
+* Terrestrail Ecosystem Ecology
