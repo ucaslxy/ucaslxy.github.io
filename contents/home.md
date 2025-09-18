@@ -1,8 +1,4 @@
 
-
-
-
-
 I'm currently assistant professor at the School of Civil Engineering and Geomatics, Shandong University of Technology.
 
 
